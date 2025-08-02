@@ -117,6 +117,25 @@ My work is centered around the following key areas, where I bring a blend of tec
     * **Tech Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
+### Mini Gallery
+<table align="center">
+  <tr>
+     <td>
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGqhrqBmE85RQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728935347244?e=1754701200&v=beta&t=Lh5YoSj1EYgr6J3E3tbbE2kwiuMDFRUgbS1N9OfMxTs" width="200" alt="Image 2">
+      <br>GITEX 2024 Dubai
+    </td>
+    <td>
+      <img src="https://media.licdn.com/dms/image/v2/D4D22AQE9Gy_mJ8aokA/feedshare-shrink_800/B4DZTIQBlTHIAg-/0/1738526444618?e=1756944000&v=beta&t=8Hai_Bl7fQi0e55UJNtnVpHsjs4fqhhxlFjVasOdneY" width="200" alt="Image 1">
+      <br>Learning today, leading <br> tomorrow Bits 😊
+    </td>
+     <td>
+      <img src="https://media.licdn.com/dms/image/v2/D4D22AQG96y5vO0nJkg/feedshare-shrink_1280/feedshare-shrink_1280/0/1729099790316?e=1756944000&v=beta&t=JN5xsbUfRhbaFfjadQkVR__j3pUOWt5oWDkx2jSnrMo" width="200" alt="Image 2">
+      <br>GITEX 2024 Dubai
+    </td>
+  </tr>
+</table>
+
+
 
 ### 📈 GitHub Stats
 
